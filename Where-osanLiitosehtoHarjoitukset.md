@@ -1,4 +1,6 @@
 #Where-osan liitosehto harjoitukset
+![image](https://github.com/user-attachments/assets/8c9a8dcc-ae8b-49b6-a9b9-7fc704df2283)
+
 
 1. SELECT country.name AS 'country name', airport.name AS 'airport name' FROM country, airport WHERE
    country.iso_country = airport.iso_country AND country.name = 'Iceland';
