@@ -1,4 +1,6 @@
 #Relaatiotietokannan peruskäsitteiden harjoitukset
+![image](https://github.com/user-attachments/assets/c1a31b5b-2d3f-4294-957b-8c7049072306)
+
 
 1. 5
 ![image](https://github.com/user-attachments/assets/9f8837a2-6ef8-45ee-bd63-089dd40a9ad7)
