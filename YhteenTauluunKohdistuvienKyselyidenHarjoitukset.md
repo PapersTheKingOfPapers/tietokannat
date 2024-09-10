@@ -1,4 +1,6 @@
 #Yhteen tauluun kohdistuvien kyselyiden harjoitukset
+![image](https://github.com/user-attachments/assets/6cd7b77a-a489-4c93-a375-ebbbb4d9fa90)
+
 
 1. SELECT * FROM goal
 ![image](https://github.com/user-attachments/assets/d65f79d3-d079-41e9-92a4-0a25d26cc585)
