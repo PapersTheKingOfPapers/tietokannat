@@ -1,4 +1,6 @@
 #Sisäkysely harjoitukset
+![image](https://github.com/user-attachments/assets/fbef3f8d-def9-4736-a913-677d7c6a1bba)
+
 
 1. SELECT name FROM country WHERE iso_country in( SELECT iso_country FROM airport WHERE name LIKE 'Satsuma%');
 
