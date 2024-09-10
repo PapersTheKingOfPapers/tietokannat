@@ -1,4 +1,6 @@
 #Join harjoitukset
+![image](https://github.com/user-attachments/assets/b956c688-fae5-412f-bd2b-37458ddf7439)
+
 
 1. SELECT country.name AS 'country name', airport.name AS 'airport name' FROM airport INNER JOIN country ON country.iso_country = airport.iso_country WHERE country.name='Finland' AND airport.scheduled_service='yes';
 
